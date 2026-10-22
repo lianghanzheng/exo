@@ -1,0 +1,9 @@
+neon_matmul
+neon_matmul.c
+neon_matmul.h
+neon_matmul.d
+*.o
+__pycache__/
+benchmarks/bench_exo
+benchmarks/bench_blis
+benchmarks/bench_openblas
